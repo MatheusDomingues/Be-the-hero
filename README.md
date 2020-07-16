@@ -20,7 +20,7 @@ Você precisa ter [Node.js](https://nodejs.org) em sua máquina para clonar este
 $ git clone https://github.com/MatheusDomingues/Be-the-hero.git
 ```
 
-Depois disso, acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
+Depois disso, acesse a pasta back-end e instale as dependências executando o seguinte comando:
 
 ```
 $ npm install # ou yarn install
