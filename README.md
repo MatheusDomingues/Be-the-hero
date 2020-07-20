@@ -16,13 +16,13 @@ Neste projeto, foi utilizado as tecnologias:
 
 Você precisa ter [Node.js](https://nodejs.org) em sua máquina para clonar este repositório:
 
-```
+```sh
 $ git clone https://github.com/MatheusDomingues/Be-the-hero.git
 ```
 
 Depois disso, acesse a pasta back-end e instale as dependências executando o seguinte comando:
 
-```
+```sh
 $ npm install # ou yarn install
 ```
 
@@ -30,13 +30,13 @@ $ npm install # ou yarn install
 
 Estando na pasta do backend, execute o comando abaixo para inicializar a aplicação.
 
-```
+```sh
 $ npm start # ou yarn start
 ```
 
 Para executar o app mobile, acesse a pasta mobile e execute o comando:
 
-```
+```sh
 $ yarn start # ou npm start ou expo start
 ```
 
